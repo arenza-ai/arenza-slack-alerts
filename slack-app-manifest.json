@@ -1,0 +1,27 @@
+{
+  "display_information": {
+    "name": "Arenza Alerts",
+    "description": "Real-time AI visibility alerts from Arenza — wrong claims, SoV drops, competitor surges across ChatGPT, Claude, Gemini, Perplexity, Copilot, and Grok.",
+    "background_color": "#0b0f1a",
+    "long_description": "Arenza Alerts streams measurement-led GEO (Generative Engine Optimization) events from app.arenza.ai into your Slack workspace in real time. Get pinged the moment one of the 6 leading AI assistants misquotes your brand, when share of voice drops more than 10% week-over-week, or when a competitor surges in a market you care about. Configurable severity threshold, per-brand channel routing, and HMAC-signed webhooks. Powered by https://arenza.ai."
+  },
+  "features": {
+    "bot_user": {
+      "display_name": "Arenza Alerts",
+      "always_online": true
+    }
+  },
+  "oauth_config": {
+    "scopes": {
+      "bot": [
+        "chat:write",
+        "chat:write.public"
+      ]
+    }
+  },
+  "settings": {
+    "org_deploy_enabled": false,
+    "socket_mode_enabled": false,
+    "token_rotation_enabled": false
+  }
+}
