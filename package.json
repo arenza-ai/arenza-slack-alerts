@@ -23,7 +23,7 @@
   "homepage": "https://arenza.ai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naiqiao/arenza-slack-alerts.git"
+    "url": "git+https://github.com/arenza-ai/arenza-slack-alerts.git"
   },
   "main": "dist/index.js",
   "scripts": {

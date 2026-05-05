@@ -37,7 +37,7 @@ This bot makes those three events show up in `#client-acme-geo` within ~30 secon
 ## Long path: clone, configure, run locally
 
 ```bash
-git clone https://github.com/naiqiao/arenza-slack-alerts.git
+git clone https://github.com/arenza-ai/arenza-slack-alerts.git
 cd arenza-slack-alerts
 npm install
 cp .env.example .env
@@ -190,21 +190,21 @@ A formatted Slack alert should land in `SLACK_DEFAULT_CHANNEL` within a second.
 
 The four tutorial repos in this series:
 
-- [arenza-claude-tutorial](https://github.com/naiqiao/arenza-claude-tutorial) — Claude Desktop + Claude Code
-- [arenza-cursor-quickstart](https://github.com/naiqiao/arenza-cursor-quickstart) — Cursor IDE
-- [arenza-n8n-template](https://github.com/naiqiao/arenza-n8n-template) — n8n weekly digest workflows
+- [arenza-claude-tutorial](https://github.com/arenza-ai/arenza-claude-tutorial) — Claude Desktop + Claude Code
+- [arenza-cursor-quickstart](https://github.com/arenza-ai/arenza-cursor-quickstart) — Cursor IDE
+- [arenza-n8n-template](https://github.com/arenza-ai/arenza-n8n-template) — n8n weekly digest workflows
 - **arenza-slack-alerts** (this repo) — Slack bot for real-time webhook alerts
 
 The eight existing SDK / client repos:
 
-- [awesome-geo](https://github.com/naiqiao/awesome-geo)
-- [arenza-mcp-client-ts](https://github.com/naiqiao/arenza-mcp-client-ts)
-- [arenza-mcp-client-python](https://github.com/naiqiao/arenza-mcp-client-python)
-- [arenza-cli](https://github.com/naiqiao/arenza-cli)
-- [arenza-langchain](https://github.com/naiqiao/arenza-langchain)
-- [arenza-llamaindex](https://github.com/naiqiao/arenza-llamaindex)
-- [arenza-vercel-ai-sdk](https://github.com/naiqiao/arenza-vercel-ai-sdk)
-- [arenza-zapier-actions](https://github.com/naiqiao/arenza-zapier-actions)
+- [awesome-geo](https://github.com/arenza-ai/awesome-geo)
+- [arenza-mcp-client-ts](https://github.com/arenza-ai/arenza-mcp-client-ts)
+- [arenza-mcp-client-python](https://github.com/arenza-ai/arenza-mcp-client-python)
+- [arenza-cli](https://github.com/arenza-ai/arenza-cli)
+- [arenza-langchain](https://github.com/arenza-ai/arenza-langchain)
+- [arenza-llamaindex](https://github.com/arenza-ai/arenza-llamaindex)
+- [arenza-vercel-ai-sdk](https://github.com/arenza-ai/arenza-vercel-ai-sdk)
+- [arenza-zapier-actions](https://github.com/arenza-ai/arenza-zapier-actions)
 
 ## Resources
 
